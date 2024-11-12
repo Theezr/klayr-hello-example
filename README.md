@@ -1,43 +1,74 @@
-# Getting Started with Klayr Blockchain Client
+# Project name
 
 This project was bootstrapped with [Klayr SDK](https://github.com/Klayrhq/klayr-sdk)
+Short introduction of your sidechain
+
+## Project Overview
+
+### The Your Sidechain is designed to:
+
+- What does your sidechain do
+
+## Key Components
+
+- Your modules
+- Your stores
+- Your events
+- etc
+
+## Setup and Installation
+
+### Ensure you have Node.js and npm installed.
+
+### Clone the repository
+
+```
+git clone [repository-url]
+```
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Build the project
+
+```
+npm run build
+```
+
+## Running the Sidechain
 
 ### Start a node
 
 ```
-./bin/run start
+./bin/run start --config=config/custom_config.json
 ```
 
-### Build and start a node with custom config
+### The node will be available by default at
 
 ```
-yarn build && ./bin/run start --config config/custom_config.json --overwrite-config
+http://localhost:7887
 ```
 
-### Add a new module
+## Interacting with the Sidechain
 
-```
-klayr generate:module ModuleName
-// Example
-klayr generate:module token
-```
+### Here are some example commands to interact with the sidechain:
 
-### Add a new command
+## Your commands
 
-```
-klayr generate:command ModuleName Command
-// Example
-klayr generate:command token transfer
-```
+- command_1: does this
+-
 
-### Add a new plugin
+## Future Improvements
 
-```
-klayr generate:plugin PluginName
-// Example
-klayr generate:plugin httpAPI
-```
+- Optional
 
-## Learn More
+## License
 
-You can learn more in the [documentation](https://klayr.xyz/documentation/klayr-sdk/).
+This project is licensed under the Apache License 2.0.
+
+## Discord Username
+
+- your_username
