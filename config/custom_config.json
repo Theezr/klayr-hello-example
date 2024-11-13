@@ -45,5 +45,9 @@
 			"blacklist": ["illegalWord1", "badWord2", "censoredWord3"]
 		}
 	},
-	"plugins": {}
+	"plugins": {
+		"helloInfo": {
+			"syncInterval": 60000
+		}
+	}
 }
