@@ -48,7 +48,7 @@ Host dev-container-user
  "plugins": {
     "dashboard": {
       "host": "0.0.0.0",
-      "applicationUrl": "wss://corbi-chain.klayr.run/rpc-ws" // !YOUR Chain URL!
+      "applicationUrl": "wss://klayr-chain.klayr.run/rpc-ws" // !YOUR Chain URL!
     }
   }
 ```
