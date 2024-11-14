@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Klayr SDK documentation for the hackathon project. This document provides useful resources and guides to help you get started with the Klayr SDK. Steps you could take:
+Welcome to the Klayr hackathon. This document provides useful resources and guides to help you get started with the Klayr SDK. Steps you could take for the hackaton:
 
 1. Detailed Klayr documentation main focus on modules and plugins.
 2. Installation guides for Windows and Mac.
