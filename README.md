@@ -6,6 +6,7 @@ Welcome to the Klayr hackathon. This document provides useful resources and guid
 2. Installation guides for Windows and Mac.
 3. Steps to build a blockchain using Klayr SDK (hello world example).
 4. Example projects to help you understand and implement various features.
+5. Template for the readme file for your project.
 
 ### [Klayr Documentation](https://klayr.xyz/documentation/)
 
@@ -34,3 +35,8 @@ If you run into errors during the installation process. Get in the [discord](htt
 - [How to use build in Modules](https://github.com/Theezr/pepe-world-chain) (Example how to use token / nft module)
 - [Swaptoshi](https://github.com/Swaptoshi/swaptoshi-core) (Dex on Klayr)
 - [Content Verification Sidechain](https://github.com/pope-h/klayr-content-verification-sidechain) (Igniter Pope)
+
+### Others
+
+- [Readme Template](/docs/readme-template.md) (use this template for your project)
+- [dev-container-setup](/docs/ssh-server.md) (setup if you receive a dev container)
