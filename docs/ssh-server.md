@@ -40,17 +40,17 @@ Host dev-container-user
 
 ```
 "rpc": {
-    "modes": ["ipc", "ws", "http"],
-    "port": 7887,
-    "host": "0.0.0.0",
-    "allowedMethods": ["*"]
-  },
- "plugins": {
-    "dashboard": {
-      "host": "0.0.0.0",
-      "applicationUrl": "wss://klayr-chain.klayr.run/rpc-ws" // !YOUR Chain URL!
-    }
-  }
+  "modes": ["ipc", "ws", "http"],
+  "port": 7887,
+  "host": "0.0.0.0",
+  "allowedMethods": ["*"]
+  },
+  "plugins": {
+    "dashboard": {
+      "host": "0.0.0.0",
+      "applicationUrl": "wss://klayr-chain.klayr.run/rpc-ws" // !YOUR Chain URL!
+    }
+  }
 ```
 
 3. Run to start the blockchain with the dashboard plugin enabled and custom config
